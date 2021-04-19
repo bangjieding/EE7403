@@ -1,4 +1,4 @@
-function [train_accuracy,test_accuracy]=RVFL_train_val(trainX,trainY,testX,testY,option)
+function [train_accuracy, test_accuracy]=RVFL_train_val(trainX,trainY,testX,testY,option)
 % This is the  function to train and evaluate RVFL for classification
 % problem.
 % Option.N :      number of hidden neurons
